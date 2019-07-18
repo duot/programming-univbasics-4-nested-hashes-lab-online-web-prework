@@ -84,7 +84,7 @@ def adding_matz
 			 known_for: "Ruby",
 			 languges: ["Ruby"]
 		 }
-
+		 programmer_hash
 end
 
 def changing_alan
